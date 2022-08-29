@@ -1,5 +1,6 @@
 # Strapi Sample
 
-$ docker-compose up -d
+環境構築
+```bash
 $ yarn develop
-$ open http://localhost:1337/admi
+```
